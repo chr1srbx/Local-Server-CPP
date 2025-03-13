@@ -1,0 +1,66 @@
+{
+    "3": {
+        "DateCreated": "02/20/2025",
+        "hasAccount": true,
+        "password": "34",
+        "secretID": "0",
+        "stats": {
+            "CollaborationPoints": 0.0,
+            "CollaborationsJoined": 0,
+            "CollaborationsMade": 0,
+            "CollaborationsWeek": 0,
+            "ContributionPointsWeek": 0,
+            "GroupsJoinedWeek": 0,
+            "LikesWeek": 0,
+            "TotalLikes": 0.0
+        }
+    },
+    "chrius1": {
+        "DateCreated": "02/20/2025",
+        "hasAccount": true,
+        "password": "12",
+        "secretID": "2",
+        "stats": {
+            "CollaborationPoints": 0.0,
+            "CollaborationsJoined": 0,
+            "CollaborationsMade": 0,
+            "CollaborationsWeek": 0,
+            "ContributionPointsWeek": 0,
+            "GroupsJoinedWeek": 0,
+            "LikesWeek": 0,
+            "TotalLikes": 0.0
+        }
+    },
+    "lucian": {
+        "DateCreated": "02/20/2025",
+        "hasAccount": true,
+        "password": "beta",
+        "secretID": "5",
+        "stats": {
+            "CollaborationPoints": 0.0,
+            "CollaborationsJoined": 0,
+            "CollaborationsMade": 0,
+            "CollaborationsWeek": 0,
+            "ContributionPointsWeek": 0,
+            "GroupsJoinedWeek": 0,
+            "LikesWeek": 0,
+            "TotalLikes": 0.0
+        }
+    },
+    "sigma": {
+        "DateCreated": "02/20/2025",
+        "hasAccount": true,
+        "password": "cebic",
+        "secretID": "2",
+        "stats": {
+            "CollaborationPoints": 0.0,
+            "CollaborationsJoined": 0,
+            "CollaborationsMade": 0,
+            "CollaborationsWeek": 0,
+            "ContributionPointsWeek": 0,
+            "GroupsJoinedWeek": 0,
+            "LikesWeek": 0,
+            "TotalLikes": 0.0
+        }
+    }
+}
